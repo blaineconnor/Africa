@@ -30,4 +30,5 @@ struct CoverImageView: View {
 
 #Preview {
     CoverImageView()
+        .frame(height: 300)
 }
